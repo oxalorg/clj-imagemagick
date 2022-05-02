@@ -10,8 +10,6 @@
 (def default-options
   {:executable "convert"})
 
-(first (-> :+abcd name))
-
 (defn other-args [[arg value]]
   ;; converts
   ;; :option => -option
