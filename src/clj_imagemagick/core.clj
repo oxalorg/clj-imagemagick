@@ -23,7 +23,7 @@
       [(str hyphen-or-plus arg)]
 
       :else
-      [(str hyphen-or-plus arg value)])))
+      [(str hyphen-or-plus arg) value])))
 
 (defn input-args [{:keys [file] :as input}]
   (concat
