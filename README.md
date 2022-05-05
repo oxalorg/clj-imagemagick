@@ -1,4 +1,6 @@
-# clj-imagemagick
+# clj-imagemagick [WORK IN PROGRESS]
+
+**PS: Won't work cleanly yet**
 
 Hiccup style DSL for creating Imagemagick commands which compose together
 
